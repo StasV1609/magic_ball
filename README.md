@@ -1,5 +1,5 @@
 # magic_ball
-Magic Ball Game
+Magic ball - answers questions in a playful way. 
 
 # Version
 Ruby - 2.7.3
